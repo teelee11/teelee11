@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋 I'm Teng</h1>
+<p align="left">🎲 Fun fact: Honey never spoils. Archaeologists have found 3,000-year-old jars of honey in ancient Egyptian tombs that are still perfectly edible! 🐝</p>
 
 ###
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/teng-xiong-349a50116/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
