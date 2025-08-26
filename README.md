@@ -18,7 +18,7 @@
 <h2> IT Projects:</h2>
 
 - <b>Ticketing Service Management</b>
-  -  [Simulating Tickets in ServiceNow]()
+  -  [Simulating Tickets in ServiceNow](https://github.com/teelee11/ServiceNow-Lab.git)
 - <b> Instance Provisioning <b>
   - [EC2 Windows Instance]()
 - </b> Directory and User Services <b>
